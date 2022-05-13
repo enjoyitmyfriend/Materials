@@ -1,0 +1,26 @@
+Bobby's Bricks,,,,,,,
+Cost calculator for freestanding brick walls,,,,,,,
+,,,,Soil code,Soil type,Width of footings,Depth of footings
+Data entry,,,,B,Bedrock,0.6,0.5
+Thickness of wall - single skin or double skin:,,Please enter S or D,,C,Clay,0.8,1
+Code for the type of soil:,,"Please enter soil code, B, C, G, S or T",,G,Gravel,0.6,0.8
+Length of wall:,,Please enter length in metres,,S,Sedimentary rock,0.6,0.6
+Height of wall:,,Please enter height in metres,,T,Sand,0.6,0.8
+Brick code for choice of bricks:,,Please enter brick code,,,,,
+,,,,,,,
+Foundations - footings,,,,,,,
+The footings will be:,,metres deep,,,,,
+The footings will be:,,metres wide,,,,,
+The footings will be:,,metres long,,,,,
+The concrete footings have a volume of:,,cubic metres,,,,,
+The concrete for the footings will cost:,,,,,,,
+,,,,,,,
+Brickwork,,,,,,,
+Type of brick chosen:,,,,,,,
+Does wall require piers:,,,,,,,
+Number of piers to be built:,,,,,,,
+Number of bricks per course:,,,,,,,
+Number of courses:,,,,,,,
+You will need to buy:,,bricks,,,,,
+Number of packs of bricks required:,,,,,,,
+Cost of bricks:,,,,,,,
